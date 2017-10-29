@@ -19,6 +19,8 @@ Vault desktop is a simple desktop UI on top of
 [vault](https://github.com/jcoglan/vault/) using
 [Electron](http://electron.atom.io/).
 
+For a mobile version check [vault-mobile](https://github.com/joaomilho/vault-mobile).
+
 Check it out:
 
 <img src="assets/shot.png" width="300" />
