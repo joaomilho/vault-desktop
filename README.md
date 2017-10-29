@@ -27,7 +27,7 @@ Check it out:
 
 Download:
 
-- [Mac x64](./vault-desktop-darwin-x64/vault-desktop.zip)
+- [Mac x64](https://github.com/joaomilho/vault-desktop/raw/master/vault-desktop-darwin-x64/vault-desktop.zip)
 - Windows TBD
 - Linux TBD
 
