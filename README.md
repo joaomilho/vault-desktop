@@ -25,7 +25,11 @@ Check it out:
 
 ### Install
 
-TBD
+Download:
+
+- [Mac x64](./vault-desktop-darwin-x64/vault-desktop.app)
+- Windows TBD
+- Linux TBD
 
 ### Development
 

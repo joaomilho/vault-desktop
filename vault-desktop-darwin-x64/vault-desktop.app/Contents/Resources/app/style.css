@@ -1,0 +1,62 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'San Francisco', 'Lucida Grande', Arial, sans;
+  background: #F0F0F0;
+
+  font-size: 1em;
+  line-height: 1.5em;
+  color: #333339;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+
+  margin: auto;
+  height: 90%;
+  width: 90%;
+}
+
+main > section#service, main > section#phrase {
+  flex: 4;
+}
+
+main > section#password {
+  flex: 1;
+}
+
+#toggleVisibility {
+  color: #7744ff;
+  font-family: inherit;
+  font-size: inherit;
+  background: inherit;
+  border: 0;
+  outline: 0;
+  width: 10%;
+}
+
+
+input {
+  font-family: inherit;
+  font-size: 1.3em;
+  line-height: 2em;
+  background: inherit;
+  border: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  outline: none;
+  display: block;
+  width: 100%;
+}
+
+#password {
+  height: 50px;
+  font-size: 1.2em;
+  line-height: 100%:
+}
+
