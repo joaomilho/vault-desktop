@@ -1,8 +1,8 @@
 # Vault desktop
 
-[#intro](Intro)
-[#install](Install)
-[#development](Development)
+- [Intro](#intro)
+- [Install](#install)
+- [Development](#development)
 
 ### Intro
 
