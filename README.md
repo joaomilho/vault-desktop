@@ -20,6 +20,7 @@ Vault desktop is a simple desktop UI on top of
 [Electron](http://electron.atom.io/).
 
 Check it out:
+
 <img src="assets/shot.png" width="300" />
 
 ### Install
